@@ -29,6 +29,7 @@ Monitor CloudFront metrics in the AWS Management Console or through CloudWatch.
 Set up CloudWatch Alarms for key metrics to receive notifications for any issues. Regular Maintenance and Updates
 Regularly review and update caching behaviors and distribution settings based on changing requirements.
 
+![image](https://github.com/sindhu14072023/Sindhu_Cloudfrontaws/assets/153921370/33a425d3-e9b3-4ea1-9b85-7758a7c82fa4)
 
 
 
